@@ -6,7 +6,7 @@ function ErrorComp() {
     <div id="errorcomp">
       <div id="errortext">
         <h2> 404</h2>
-        <h4> Opps ! Page Not found</h4>
+        <h4> Oppss ! Page Not found</h4>
         <p>
           {" "}
           Sorry , the page you 're looking for does not exist ,if you think
